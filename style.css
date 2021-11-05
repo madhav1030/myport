@@ -738,7 +738,7 @@ p {
 /* End Media Query For Tablet */
 
 /* Media Query For Desktop */
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 1100px) {
 	/* header */
 	#header .hamburger {
 		display: none;
