@@ -382,6 +382,15 @@ p {
 .progress:nth-child(8) .bar span{
 	width: 85%;
 }
+.progress:nth-child(9) .bar span {
+  width: 90%;
+}
+.progress:nth-child(10) .bar span {
+  width: 85%;
+}
+.progress:nth-child(11) .bar span {
+  width: 85%;
+}
 
 
 /* Projects section */
