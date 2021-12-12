@@ -368,27 +368,30 @@ p {
 	width: 90%;
 }
 .progress:nth-child(4) .bar span{
-	width: 90%;
+	width: 95%;
 }
 .progress:nth-child(5) .bar span{
 	width: 90%;
 }
 .progress:nth-child(6) .bar span{
-	width: 92%;
+	width: 90%;
 }
 .progress:nth-child(7) .bar span{
 	width: 92%;
 }
 .progress:nth-child(8) .bar span{
+	width: 92%;
+}
+.progress:nth-child(9) .bar span{
 	width: 85%;
 }
-.progress:nth-child(9) .bar span {
+.progress:nth-child(10) .bar span {
   width: 90%;
 }
-.progress:nth-child(10) .bar span {
+.progress:nth-child(11) .bar span {
   width: 85%;
 }
-.progress:nth-child(11) .bar span {
+.progress:nth-child(12) .bar span {
   width: 85%;
 }
 
