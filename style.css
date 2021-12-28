@@ -394,6 +394,9 @@ p {
 .progress:nth-child(12) .bar span {
   width: 85%;
 }
+.progress:nth-child(13) .bar span {
+  width: 85%;
+}
 
 
 /* Projects section */
